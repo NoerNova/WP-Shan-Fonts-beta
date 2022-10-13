@@ -7,8 +7,9 @@ A wordpress plugins for easily used of shan-fonts.
 3. On the head click ```Add New```
 4. On the head click ```Upload Plugin```
 5. Choose File --> ```wp-shan-fonts.zip```
-6. Wait for Installation Complete and then
-7. Click activate plugins
+6. Click ```Install Now```
+7. Wait for Installation Complete and then
+8. Click Activate plugins
 
 ---
 ### Basic Settings
